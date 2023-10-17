@@ -7,4 +7,5 @@
 ### description
 
 [Why Accessibility Matters in UI/UX Design](https://www.freecodecamp.org/news/why-accessibility-matters-in-ui-ux-design/)
+<br />
 [Common Accessibility Errors and How To Fix Them](https://www.freecodecamp.org/news/common-accessibility-errors-and-how-to-fix-them/)
